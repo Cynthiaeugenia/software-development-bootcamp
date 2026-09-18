@@ -43,6 +43,8 @@ si nos encontramos en la nueva rama que creamos nos quedamos ahi y si no es así
 
 8. Comprobamos con git add remote "URL de nuestro repositorio de GiHub", que estemos conectados.
 
+9. Creamos nuestra rama en el repositorio remoto ejecutando el siguiente comando en la terminal git push -u origin (Nombre de la rama)
+
 9. Una vez que vericamos que estamos correctamente conectados, ponemos en la terminal git push y nos vamos para Gnuestro repositorio de GitHub.
 
 10. En GitHub nos apareceran los cambios que hemos realizado y los cammits que tenemos, al igual que los Files Changed que hemos echo y que podemos revisar para verificar todos nuestros cambios.
