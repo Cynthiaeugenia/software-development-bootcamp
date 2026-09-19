@@ -39,7 +39,7 @@ si nos encontramos en la nueva rama que creamos nos quedamos ahi y si no es así
 
 6. Enseguida ponemos en nuestra terminal git add "nombre del documeto(s)", esto nos ayudará a preparar nuestros archivos sobre los que hicimos cambios para antes de hacer commit.
 
-7. Ejecutamos git commit -m ("Nombre rama") para guardar los cambios que hemos hecho en esta versión.
+7. Ejecutamos git commit -m ("Comentario sobre lo que hiciste") para guardar los cambios que hemos hecho en esta versión.
 
 8. Comprobamos con git add remote "URL de nuestro repositorio de GiHub", que estemos conectados.
 
